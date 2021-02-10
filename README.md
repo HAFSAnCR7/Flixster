@@ -27,7 +27,7 @@ PORTRAIT MODE:
 <img src="walkthrough.gif" width=450><br>
 
 LANDSCAPE MODE:
-<img src="walkthrough2gif" width=450><br>
+<img src="walkthrough2.gif" width=450><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
